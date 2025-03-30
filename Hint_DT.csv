@@ -1,0 +1,23 @@
+---,Step#,Dialogue,Audio,IsComplete,NextStepID
+1.1,1,"CASSIE: An open book, the true beginning of one’s story. Yet, to start, you may not have all the pieces of the puzzle. Peruse the scene laid before you to unveil the truth. ",None,FALSE,2
+1.2,2,"CASSIE: Meticulously examine Mr. Cromwell’s sanctuary, taking caution to ensure nothing goes missed. With a keen sense of curiosity, turn your attention to the bookshelf. ",None,FALSE,3
+1.3,3,"CASSIE: Peer through the apertures of the parchment found, the hidden truth shall reveal itself in due course. ",None,FALSE,4
+2.1,4,"CASSIE: Oh, you’ve never seen one of these before? Don’t fret - it isn’t exactly common knowledge. This little device is a magnet, specially designed to fish out forgotten treasures that slip down a drain. ",None,FALSE,5
+2.2,5,"CASSIE: With the combination bestowed upon you, one can only ponder what secrets lie in wait, eager to be uncovered. ",None,FALSE,6
+2.3,6,"CASSIE: The solution rests deep within a dark, damp passage. With unwavering resolve, seek the faintest glimmer among the murk of the unknown. ",None,FALSE,7
+3.1,7,CASSIE: Let the beam of your newly acquired flashlight uncover the hidden solution that lies concealed within the lockbox. ,None,FALSE,8
+3.2,8,"CASSIE: Within the confines of the lockbox lies the key to your victory, an instrument destined to secure your success. ",None,FALSE,9
+3.3,9,"CASSIE: Trace the lines carefully, and the solution will come to light. Follow the sequence of the path, and it shall guide you to the order you seek. ",None,FALSE,10
+4.1,10,CASSIE: The markings on the board are far from coincidental. Piece together the code that lies before you. ,None,FALSE,11
+4.2,11,CASSIE: Are you certain you’ve left no drawer unchecked? Have you truly taken the time to examine every detail with the utmost of care?,None,FALSE,12
+4.3,12,"CASSIE: While you’re moving in the right direction, the puzzle still remains incomplete. There are still pieces yet to be uncovered.",None,FALSE,13
+4.4,13,CASSIE: Combine the scattered clues with care to explore different combinations until the answer emerges upon the board. ,None,FALSE,14
+5.1,14,CASSIE: Examine the words within the riddle closely; let any key phrase or subtle detail reveal itself to you.,None,FALSE,15
+5.2,15,"CASSIE: Study the newspaper closely. I’m certain a date, perhaps the very year, will reveal itself to you.",None,FALSE,16
+5.3,16,"CASSIE: Unravel the latest transgression of Cromwell, and in doing so, the answer will provide some clarity. ",None,FALSE,17
+5.4,17,"CASSIE: In time, sparked by a bit of knowledge, the door will unlock. In the meantime, take note of the finer details; for the floor you stand on holds a greater significance than you may realize. ",None,FALSE,18
+5.5,18,CASSIE: Compile the evidence gathered to reveal the passcode to move forth.,None,FALSE,19
+6.1,19,CASSIE: Align your focus. Both the size and the colors undoubtedly hold the key in unlocking the solution. ,None,FALSE,20
+7.1,20,"CASSIE: Pin the locations of his heinous schemes. Unravel the web of deceit, and in doing so, preserve the lives at stake.",None,FALSE,21
+8.1,21,"CASSIE: On the interior of the wardrobe, there appears to be a discrepancy in the pattern. Surely, something is hidden within.",None,FALSE,22
+8.2,22,"CASSIE: Use the clues from the newspaper in hand. Surely, you can decipher the missing pieces and complete the ledger. ",None,FALSE,1
